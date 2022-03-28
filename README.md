@@ -2,4 +2,6 @@
 
 I am learning  Git.
 
-this is second change:
+this is 2nd commit:
+
+thiis is third commit:
